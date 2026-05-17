@@ -15516,14 +15516,14 @@
   {
     "toaq": "roq",
     "type": "predicate",
-    "english": "▯ cries/weeps; ▯ cries tears ▯.",
+    "english": "▯ cries/sobs/weeps.",
     "gloss": "weep",
     "short": "",
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
